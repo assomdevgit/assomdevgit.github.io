@@ -1,5 +1,3 @@
-# assomdevgit.github.io
-
 # DJ26 WEB APP
 
 ## docker build
@@ -60,11 +58,12 @@ root@c52058cd5124:/usr/local/apache2/htdocs#
 - https://oss.cashmallow.com/team/how2pr/
 
 
-Deploy Production
-merge PR to main
-Deploy Pre-Production
- https://dj-twenty-six.web.app
-```base
+### Deploy Production
+- merge PR to main
+
+### Deploy Pre-Production
+- [ ] https://dj-twenty-six.web.app
+```bash
 $ firebase deploy
 
 === Deploying to 'dj-twenty-six'...
